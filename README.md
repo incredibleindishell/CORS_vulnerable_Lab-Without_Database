@@ -4,7 +4,7 @@ This Repository contains CORS misconfiguration related vulnerable codes. One can
 
 I would like to say Thank You to @albinowax (For his work in CORS exploitation), AKReddy and Vivek Sir (For being great personalities who always supported me) and Andrew Sir - @vanderaj (for his encouraging words)
 
-![](https://github.com/incredibleindishell/CORS_vulnerable_Lab-Without_Database/master/images/lab_login.png)
+![](https://raw.githubusercontent.com/incredibleindishell/CORS_vulnerable_Lab-Without_Database/main/images/lab_login.png)
 
 # Setup the lab on Machine
 Following are the pre-requities to configure the vulnerable code on local/remote machine
