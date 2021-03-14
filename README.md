@@ -4,7 +4,7 @@ This Repository contains CORS misconfiguration related vulnerable codes. One can
 
 I would like to say Thank You to @albinowax (For his work in CORS exploitation), AKReddy and Vivek Sir (For being great personalities who always supported me) and Andrew Sir - @vanderaj (for his encouraging words)
 
-![](https://raw.githubusercontent.com/incredibleindishell/CORS-vulnerable-Lab/master/images/lab_login.png)
+![](https://github.com/incredibleindishell/CORS_vulnerable_Lab-Without_Database/master/images/lab_login.png)
 
 # Setup the lab on Machine
 Following are the pre-requities to configure the vulnerable code on local/remote machine
@@ -93,5 +93,6 @@ Ofcourse,
 --==[[Love to]]==--
 
 	My Father, my Ex Teacher, cold fire hacker, Mannu, ViKi, Ashu bhai ji, Soldier Of God, Bhuppi, Gujjar PCP
-	Mohit, Ffe, Shardhanand, Budhaoo, Jagriti, Hacker fantastic, Jennifer Arcuri, Thecolonial and Don(Deepika kaushik)
+	Mohit, Ffe, Shardhanand, Budhaoo, bohops, Hacker fantastic, Jennifer Arcuri, Thecolonial, S3cur3Th1sSh1t, 
+	Anurag Bhai ji, Vivek bhai ji and Don(Deepika kaushik)
 
