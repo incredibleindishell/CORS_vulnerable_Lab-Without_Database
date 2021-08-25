@@ -6,7 +6,15 @@ I would like to say Thank You to @albinowax (For his work in CORS exploitation),
 
 ![](https://raw.githubusercontent.com/incredibleindishell/CORS_vulnerable_Lab-Without_Database/main/images/lab_login.png)
 
-# Setup the lab on Machine
+# Run docker image 
+```
+git clone https://github.com/incredibleindishell/CORS_vulnerable_Lab-Without_Database.git
+cd CORS_vulnerable_Lab-Without_Database
+docker build . -t <tagname>
+docker run -d -p 8000:80 <tagname>
+```
+> Access it as http://localhost:8000 
+# Setup the lab on Machine locally 
 Following are the pre-requities to configure the vulnerable code on local/remote machine
 
   1. Apache web server
